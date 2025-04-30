@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Demo
 
-![Demo of scrcpy usage](assets/scrcpy_xQGJZjwXIg.gif)
+![App Demo](assets/scrcpy_xQGJZjwXIg.gif)
 
 
 
